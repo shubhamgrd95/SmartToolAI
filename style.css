@@ -10,6 +10,12 @@ body {
   color: #222;
 }
 
+.logo {
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+}
+
 /* Navbar #0b5cff*/
 .navbar {
   background: #ffffff;
@@ -124,3 +130,4 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
